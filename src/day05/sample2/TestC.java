@@ -1,4 +1,4 @@
-package day05.ssample2;
+package day05.sample2;
 
 public class TestC extends TestB {
 
