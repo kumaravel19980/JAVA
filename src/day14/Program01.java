@@ -1,9 +1,9 @@
 package day14;
 
-public class Program01 {
+import java.util.ArrayList;
 
-	public static void main(String[] args) {
-		// COLLECTIONS 
+public class Program01 {
+	// COLLECTIONS 
 		// i) ArrayList :
 
 
@@ -36,7 +36,5 @@ public class Program01 {
 			System.out.println(x);
 			System.out.println(x.isEmpty());
 		}
-
-	}
-
 }
+

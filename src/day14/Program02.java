@@ -24,8 +24,6 @@ public class Program02 {
 				Integer[] z= {10,20,30};
 				x.removeAll(Arrays.asList(z));
 				System.out.println(x);
-
-
 	}
 
 }
